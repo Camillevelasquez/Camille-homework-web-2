@@ -191,6 +191,46 @@
       "oAP" : "\/Design\/homeworkDemo .sketch",
       "oF" : 0
     },
+    "\/Dev\/content\/5-heros.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/Dev\/content\/5-heros.html",
+      "oF" : 1
+    },
+    "\/Dev\/content\/Cake-and-list.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/Dev\/content\/Cake-and-list.html",
+      "oF" : 1
+    },
+    "\/Dev\/content\/Chocolate-drip-strawberry.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/Dev\/content\/Chocolate-drip-strawberry.html",
+      "oF" : 1
+    },
+    "\/Dev\/content\/minicupcakes-consult.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/Dev\/content\/minicupcakes-consult.html",
+      "oF" : 1
+    },
+    "\/Dev\/global\/footer.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/Dev\/global\/footer.html",
+      "oF" : 1
+    },
     "\/Dev\/global\/head.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -198,6 +238,14 @@
       "oA" : 1,
       "oAP" : "\/Dev\/global\/head.html",
       "oF" : 0
+    },
+    "\/Dev\/global\/Header.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/Dev\/global\/Header.html",
+      "oF" : 1
     },
     "\/Dev\/global\/scripts.kit" : {
       "cB" : 0,
@@ -207,21 +255,13 @@
       "oAP" : "\/Dev\/global\/scripts.html",
       "oF" : 0
     },
-    "\/Dev\/Header.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/Dev\/Header.html",
-      "oF" : 0
-    },
     "\/Dev\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/Dev\/index.html",
-      "oF" : 0
+      "oAP" : "\/Deploy\/index.html",
+      "oF" : 2
     },
     "\/Dev\/js\/scripts.js" : {
       "bF" : 0,
@@ -233,46 +273,6 @@
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
-    },
-    "\/Dev\/Section-1.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/Dev\/Section-1.html",
-      "oF" : 0
-    },
-    "\/Dev\/Section-2.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/Dev\/Section-2.html",
-      "oF" : 0
-    },
-    "\/Dev\/Section-3.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/Dev\/Section-3.html",
-      "oF" : 0
-    },
-    "\/Dev\/Section-4.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/Dev\/Section-4.html",
-      "oF" : 0
-    },
-    "\/Dev\/Section-5.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/Dev\/Section-5.html",
-      "oF" : 0
     },
     "\/README.md" : {
       "cB" : 0,
