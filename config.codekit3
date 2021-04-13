@@ -47,6 +47,32 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/Deploy\/img\/Section-2\/icon.png" : {
+      "ft" : 32768,
+      "iS" : 14201,
+      "oA" : 0,
+      "oAP" : "\/Deploy\/img\/Section-2\/icon.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/Deploy\/img\/Section-2\/icon2.png" : {
+      "ft" : 32768,
+      "iS" : 14543,
+      "oA" : 0,
+      "oAP" : "\/Deploy\/img\/Section-2\/icon2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/Deploy\/img\/Section-3\/cake-2.jpg" : {
       "ft" : 16384,
       "iS" : 38942,
