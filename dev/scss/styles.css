@@ -367,11 +367,23 @@ template {
 /* =============
     Header
 ============= */
-#company-name {
-  grid-column-start: 1;
-  grid-column-end: 3;
+header {
+  display: grid;
+  grid-template-columns: 16px auto 16px;
+  grid-template-areas: ". header .";
+}
+header > div {
+  grid-area: header;
 }
 
 /* =============
     Footer
 ============= */
+/* =============
+    Chocolate-drip-strawberry
+============= */
+#cake-2 img {
+  display: grid;
+  grid-template-columns: 16px auto 16px;
+  max-width: 100%;
+}

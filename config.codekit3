@@ -188,19 +188,11 @@
       "oAP" : "\/dev\/content\/5-heros.html",
       "oF" : 0
     },
-    "\/dev\/content\/Cake-and-list.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/Cake-and-list.html",
-      "oF" : 0
-    },
     "\/dev\/content\/Chocolate-drip-strawberry.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/dev\/content\/Chocolate-drip-strawberry.html",
       "oF" : 0
     },
@@ -210,6 +202,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/dev\/content\/minicupcakes-consult.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/Section-1.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/Section-1.html",
       "oF" : 0
     },
     "\/dev\/global\/footer.kit" : {
@@ -234,14 +234,6 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/global\/scripts.html",
-      "oF" : 0
-    },
-    "\/dev\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/index.html",
       "oF" : 0
     },
     "\/dev\/index.kit" : {
@@ -412,6 +404,20 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/layout\/_header.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/sections\/_Chocolate-drip-strawberry.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/sections\/_Chocolate-drip-strawberry.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
