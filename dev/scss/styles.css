@@ -382,9 +382,17 @@ header > div {
 /* =============
     Chocolate-drip-strawberry
 ============= */
-#cake-2 img {
+#cakes {
+  display: grid;
+}
+
+#cake-2 {
+  grid-area: cake-2;
   display: grid;
   grid-template-columns: 50px 50px 50px;
+  max-width: 100%;
+}
+#cake-2 img {
   max-width: 100%;
 }
 
