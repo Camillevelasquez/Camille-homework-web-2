@@ -180,6 +180,38 @@
       "oAP" : "\/Design\/homeworkDemo .sketch",
       "oF" : 0
     },
+    "\/dev\/content\/5-heros.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/5-heros.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/Cake-and-list.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/Cake-and-list.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/Chocolate-drip-strawberry.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/Chocolate-drip-strawberry.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/minicupcakes-consult.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/minicupcakes-consult.html",
+      "oF" : 0
+    },
     "\/dev\/global\/footer.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -230,6 +262,20 @@
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
+    },
+    "\/dev\/scss\/_section-1.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/_section-1.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
     },
     "\/dev\/scss\/base\/_base.scss" : {
       "aP" : 0,
