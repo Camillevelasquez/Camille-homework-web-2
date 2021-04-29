@@ -1,5 +1,8 @@
 /* =============
     Header
 ============= */
-#company-name {grid-column-start: 1;
-grid-column-end: 3}
+#header-aside {
+    img {
+        max-width: 100%;
+    }
+}
