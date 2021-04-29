@@ -4,7 +4,14 @@
 #cake-2 {
     img {
         display: grid;
-        grid-template-columns: 16px auto 16px;
+        grid-template-columns: 50px 50px 50px;
         max-width: 100%;
 }
+}
+
+#cake-3 {
+    img {
+        display: grid;
+        grid-template-columns: 50px 50px 50px;
+    }
 }
