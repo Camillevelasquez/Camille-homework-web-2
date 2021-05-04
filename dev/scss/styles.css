@@ -372,6 +372,13 @@ header {
   grid-template-columns: 16px auto 16px;
   grid-template-areas: ". header .";
 }
+header #header-aside {
+  display: grid;
+  align-content: left;
+}
+header #company-name {
+  align-content: center;
+}
 header > div {
   grid-area: header;
 }

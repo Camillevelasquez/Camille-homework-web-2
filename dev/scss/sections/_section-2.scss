@@ -1,0 +1,12 @@
+/* =============
+    Section-2
+============= */
+#cupcakes {
+    display: grid;
+}
+#icon {
+    grid-area: icon;
+    display: grid;
+    max-width: 100%;
+    align-content: right;
+}
