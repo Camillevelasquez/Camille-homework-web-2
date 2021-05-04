@@ -4,9 +4,14 @@
 #cupcakes {
     display: grid;
 }
-#icon {
-    grid-area: icon;
+section {
     display: grid;
-    max-width: 100%;
-    align-content: right;
+    grid-template-columns: 60% 40%;
+    grid-template-areas: "newcupcakes minicupcakes" ;
+section #newcupcakes {
+    grid-area: newcupcakes;
+}
+Section #minicupcakes {
+    grid-area: minicupcakes;
+}
 }
