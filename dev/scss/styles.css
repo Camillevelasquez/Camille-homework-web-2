@@ -422,3 +422,21 @@ section section #newcupcakes {
 section Section #minicupcakes {
   grid-area: minicupcakes;
 }
+
+@media (min-width: 768px) {
+  #cupcakes {
+    display: grid;
+  }
+
+  section {
+    display: grid;
+    grid-template-columns: 60% 40%;
+    grid-template-areas: "newcupcakes minicupcakes";
+  }
+  section section #newcupcakes {
+    grid-area: newcupcakes;
+  }
+  section Section #minicupcakes {
+    grid-area: minicupcakes;
+  }
+}

@@ -15,3 +15,20 @@ Section #minicupcakes {
     grid-area: minicupcakes;
 }
 }
+
+@include md{
+    #cupcakes {
+        display: grid;
+    }
+    section {
+        display: grid;
+        grid-template-columns: 60% 40%;
+        grid-template-areas: "newcupcakes minicupcakes" ;
+    section #newcupcakes {
+        grid-area: newcupcakes;
+    }
+    Section #minicupcakes {
+        grid-area: minicupcakes;
+    }
+    }
+}
