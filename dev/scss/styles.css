@@ -367,48 +367,9 @@ template {
 /* =============
     Header
 ============= */
-header {
-  display: grid;
-}
-@media (min-width: 1200px) {
-  header {
-    grid-template-areas: ". header .";
-    grid-template-columns: auto 1200px auto;
-  }
-}
-@media (min-width: 1200px) {
-  header > div {
-    grid-area: header;
-  }
-}
-header > div section img {
-  width: 96px;
-}
-@media (min-width: 768px) {
-  header > div section img {
-    width: 123px;
-  }
-}
-@media (min-width: 1024px) {
-  header > div section img {
-    width: 150px;
-  }
-}
-
-header {
-  display: grid;
-  grid-template-columns: 16px auto 16px;
-  grid-template-areas: ". header .";
-}
-header #header-aside {
+header #Real_logo {
   display: grid;
   align-content: left;
-}
-header #company-name {
-  align-content: center;
-}
-header > div {
-  grid-area: header;
 }
 
 /* =============

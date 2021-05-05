@@ -2,48 +2,9 @@
     Header
 ============= */
 header {
-	display: grid;
-
-	@include xl {
-		grid-template-areas: ". header .";
-		grid-template-columns: auto 1200px auto;
-	}
-
-	>div {
-		@include xl {
-			grid-area: header;
-		}
-
-		section {
-			
-
-			img {
-				width: 96px;
-
-				@include md {
-					width: 123px;
-				}
-
-				@include lg {
-					width: 150px;
-				}
-			}
-		}
-	}
-}
-header {
-#header-aside {
+#Real_logo {
     display: grid;
     align-content: left;
 }
-#company-name {
-    align-content: center;
-}
-    display: grid;
-    grid-template-columns: 16px auto 16px;
-    grid-template-areas: ". header .";
 
-    >div {
-        grid-area: header;
-    }
 }
