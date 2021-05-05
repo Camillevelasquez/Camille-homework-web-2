@@ -34,6 +34,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/header\/Real_logo.png" : {
+      "ft" : 32768,
+      "iS" : 8804,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/header\/Real_logo.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/Section-1\/cake-1.jpg" : {
       "ft" : 16384,
       "iS" : 23386,
