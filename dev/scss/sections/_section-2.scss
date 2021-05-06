@@ -3,20 +3,24 @@
 ============= */
 #cupcakes {
     display: grid;
-}
-section {
-    display: grid;
-    grid-template-columns: 60% 40%;
-    grid-template-areas: "newcupcakes minicupcakes" ;
-section #newcupcakes {
-    grid-area: newcupcakes;
-}
-Section #minicupcakes {
-    grid-area: minicupcakes;
-}
+
+    #minicupcakes {
+        display: grid;
+        grid-template-columns: 60% 40%;
+        grid-template-areas: "newcupcakes minicupcakes";
+
+        h2 {
+            display: inline-block;
+            grid-area: newcupcakes;
+        }
+
+        img {
+            grid-area: minicupcakes;
+        }
+    }
 }
 
-@include md{
+/* @include md{
     #cupcakes {
         display: grid;
     }
@@ -24,11 +28,11 @@ Section #minicupcakes {
         display: grid;
         grid-template-columns: 60% 40%;
         grid-template-areas: "newcupcakes minicupcakes" ;
-    section #newcupcakes {
+    #newcupcakes {
         grid-area: newcupcakes;
     }
-    Section #minicupcakes {
+    #minicupcakes {
         grid-area: minicupcakes;
     }
     }
-}
+} */

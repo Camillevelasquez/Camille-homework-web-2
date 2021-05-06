@@ -410,33 +410,32 @@ header #Real_logo {
 #cupcakes {
   display: grid;
 }
-
-section {
+#cupcakes #minicupcakes {
   display: grid;
   grid-template-columns: 60% 40%;
   grid-template-areas: "newcupcakes minicupcakes";
 }
-section section #newcupcakes {
+#cupcakes #minicupcakes h2 {
+  display: inline-block;
   grid-area: newcupcakes;
 }
-section Section #minicupcakes {
+#cupcakes #minicupcakes img {
   grid-area: minicupcakes;
 }
 
-@media (min-width: 768px) {
-  #cupcakes {
-    display: grid;
-  }
-
-  section {
-    display: grid;
-    grid-template-columns: 60% 40%;
-    grid-template-areas: "newcupcakes minicupcakes";
-  }
-  section section #newcupcakes {
-    grid-area: newcupcakes;
-  }
-  section Section #minicupcakes {
-    grid-area: minicupcakes;
-  }
-}
+/* @include md{
+    #cupcakes {
+        display: grid;
+    }
+    section {
+        display: grid;
+        grid-template-columns: 60% 40%;
+        grid-template-areas: "newcupcakes minicupcakes" ;
+    #newcupcakes {
+        grid-area: newcupcakes;
+    }
+    #minicupcakes {
+        grid-area: minicupcakes;
+    }
+    }
+} */
