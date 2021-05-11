@@ -386,6 +386,14 @@
       "oAP" : "\/dev\/global\/footer.html",
       "oF" : 0
     },
+    "\/dev\/global\/Head.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/global\/Head.html",
+      "oF" : 0
+    },
     "\/dev\/global\/Header.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -631,30 +639,6 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/styles-min.css" : {
-      "aP" : 1,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/scss\/styles-min-min.css",
-      "oF" : 0,
-      "pg" : 0
-    },
-    "\/dev\/scss\/styles.css" : {
-      "aP" : 1,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/scss\/styles-min.css",
-      "oF" : 0,
-      "pg" : 0
-    },
     "\/dev\/scss\/styles.scss" : {
       "aP" : 0,
       "bl" : 1,
@@ -663,7 +647,7 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/styles.css",
+      "oAP" : "\/deploy\/css\/styles.css",
       "oF" : 2,
       "oS" : 0,
       "pg" : 0,
