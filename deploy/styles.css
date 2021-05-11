@@ -356,6 +356,11 @@ template {
   background-color: #BAD1CD;
 }
 
+#minicupcakes {
+  background-color: #210B2C;
+  color: white;
+}
+
 #s1 {
   background-color: #BAD1CD;
 }
@@ -425,6 +430,7 @@ header #Real_logo {
   display: grid;
   grid-template-columns: 60% 40%;
   grid-template-areas: "newcupcakes minicupcakes";
+  background-color: #210B2C;
 }
 #cupcakes #minicupcakes h2 {
   display: inline-block;
