@@ -47,6 +47,32 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/Section-1\/cake-1-big.jpg" : {
+      "ft" : 16384,
+      "iS" : 205950,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Section-1\/cake-1-big.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/Section-1\/Cake-1-use.jpg" : {
+      "ft" : 16384,
+      "iS" : 23386,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Section-1\/Cake-1-use.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/Section-1\/cake-1.jpg" : {
       "ft" : 16384,
       "iS" : 23386,
@@ -288,6 +314,29 @@
       "oA" : 0,
       "oAP" : "\/deploy\/index.html",
       "oF" : 0
+    },
+    "\/deploy\/scripts-min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/deploy\/scripts-min-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
+    "\/deploy\/styles.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/styles-min.css",
+      "oF" : 0,
+      "pg" : 0
     },
     "\/Design\/homeworkDemo .sketch" : {
       "cB" : 0,
@@ -581,6 +630,18 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
+    },
+    "\/dev\/scss\/styles-min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/scss\/styles-min-min.css",
+      "oF" : 0,
+      "pg" : 0
     },
     "\/dev\/scss\/styles.css" : {
       "aP" : 1,

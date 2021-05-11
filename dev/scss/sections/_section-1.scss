@@ -5,4 +5,32 @@
     img {
         width: 100%;
     }
+
+    ul {
+
+        @include md {
+            display: grid;
+            grid-template-columns: 40% auto;
+        }
+
+        @include lg {
+            grid-template-columns: 50% auto;
+        }
+
+        li {
+            display: grid;
+            grid-template-columns: 16px auto 16px;
+            grid-template-areas: ". cake-1 .";
+
+            @include xl {
+                grid-area: cake-1;
+                border: 1px
+            }
+        }
+
+        @include xl {
+            grid-template-columns: 16px 480px auto;
+        }
+    }
+
 }

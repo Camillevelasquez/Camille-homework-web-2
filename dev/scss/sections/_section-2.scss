@@ -8,8 +8,7 @@
         display: grid;
         grid-template-columns: 60% 40%;
         grid-template-areas: "newcupcakes minicupcakes";
-        background-color: #210B2C;
-
+        
         h2 {
             display: inline-block;
             grid-area: newcupcakes;

@@ -1,6 +1,15 @@
 /* =============
     Base
 ============= */
+ul {
+    margin: 0;
+    padding: 0;
+
+    li {
+        list-style: none;
+    }
+}
+
 #header {
     background-color: #BAD1CD;
 }
@@ -10,4 +19,20 @@
 }
 #s1 {
     background-color: #BAD1CD;
+}
+
+.hidden {
+    display: none;
+}
+
+h1 {
+    font-family: 'Baskerville', serif;
+}
+
+h2 {
+    font-family: 'PT Serif', serif;
+}
+
+p {
+    font-family: 'PT Serif', serif;
 }
