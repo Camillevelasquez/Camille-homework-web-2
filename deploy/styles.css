@@ -352,6 +352,10 @@ template {
 /* =============
     Base
 ============= */
+#header {
+  background-color: #BAD1CD;
+}
+
 #s1 {
   background-color: #BAD1CD;
 }
@@ -374,6 +378,9 @@ template {
 header #Real_logo {
   display: grid;
   align-content: left;
+}
+header #Real_logo {
+  background-color: #BAD1CD;
 }
 
 /* =============
